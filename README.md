@@ -3,7 +3,7 @@ This repository includes the semester project of the course ETSP ([source reposi
 
 ## readAlike
 
-`readAlike` is a book recommendation system that provides similar books to a given input book. The system leverages multiple techniques, including TF-IDF vectorization, Sentence-BERT embeddings, and Approximate Nearest Neighbors (ANN) for generating content-based book recommendations based on title, description, author, and category data.
+`readAlike` is a book recommendation system that provides similar books to a given input book. The system leverages multiple techniques, including TF-IDF vectorization, Sentence-BERT embeddings, and Approximate Nearest Neighbors (ANN) for generating content-based book recommendations based on title, description, author, and category data ([dataset](https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews)).
 
 
 ## How to Run
