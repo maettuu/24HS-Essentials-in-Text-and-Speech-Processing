@@ -1,6 +1,8 @@
 # 24HS Essentials in Text and Speech Processing (ETSP)
 This repository includes the semester project of the course ETSP ([source repository](https://github.com/solodezaldivar/readAlike)). The code is written in `Python v3.12`.
 
+Main packages: `annoy`, `sentene_transformers`, `torch`, `numpy`, `sklearn` : {`TfidfVectorizer`}, `scipy`, `pandas`, `matplotlib`, `tqdm`
+
 ## readAlike
 
 `readAlike` is a book recommendation system that provides similar books to a given input book. The system leverages multiple techniques, including TF-IDF vectorization, Sentence-BERT embeddings, and Approximate Nearest Neighbors (ANN) for generating content-based book recommendations based on title, description, author, and category data ([dataset](https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews)).
