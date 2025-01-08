@@ -1,5 +1,5 @@
 # 24HS Essentials in Text and Speech Processing (ETSP)
-This repository includes the semester project of the course ETSP ([source repository](https://github.com/solodezaldivar/readAlike)). The code is written in `Python v3.12`.
+This repository includes the semester project of the course ETSP ([source repository](https://github.com/solodezaldivar/readAlike/tree/0d5913d29a7ab64459b55311e4176ca8ca8f992e)). The code is written in `Python v3.12`.
 
 Main packages: `annoy`, `sentene_transformers`, `torch`, `numpy`, `sklearn` : {`TfidfVectorizer`}, `scipy`, `pandas`, `matplotlib`, `tqdm`
 
